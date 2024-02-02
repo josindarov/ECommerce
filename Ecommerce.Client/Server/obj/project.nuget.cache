@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dEA9lfyszFbG83I4wUCVQzNUHwFR9FZgVKvyMfTFrOTPVtOqyTXqoPsgG6nJa1dnG4d04Y6bx00KiMdn+t+fjQ==",
+  "dgSpecHash": "u/GhUFNmJH4F10cnQ75VAKQNf/LWC+7MatrzfTfaOd019JcToKg8NnM25Hcxnto6SWNcdGLZReCv/HnqtKRcBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\99899\\Desktop\\Blazor Projects\\Ecommerce Website\\Ecommerce\\Ecommerce.Client\\Server\\Ecommerce.Client.Server.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,10 @@
     "C:\\Users\\99899\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\99899\\.nuget\\packages\\microsoft.jsinterop\\7.0.4\\microsoft.jsinterop.7.0.4.nupkg.sha512",
     "C:\\Users\\99899\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.4\\microsoft.jsinterop.webassembly.7.0.4.nupkg.sha512",
+    "C:\\Users\\99899\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\99899\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\99899\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\99899\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\99899\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\99899\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\99899\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
