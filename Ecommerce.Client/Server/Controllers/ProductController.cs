@@ -19,6 +19,6 @@ public class ProductController : ControllerBase
     public async Task<ActionResult<ServiceResponse<List<Product>>>> GetProductsAsync()
     {
         var result = await _productService.GetProductsAsync();
-        return Ok(result);
+        return Ok(result);  
     }
 }
