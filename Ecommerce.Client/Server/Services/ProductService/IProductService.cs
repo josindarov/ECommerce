@@ -4,5 +4,6 @@ namespace Ecommerce.Client.Server.Services.ProductService;
 
 public interface IProductService
 {
-    public Task<ServiceResponse<List<Product>>> GetProductsAsync();
+    Task<ServiceResponse<List<Product>>> GetProductsAsync();
+    Task<ServiceResponse<Product>> GetProductByIdAsync(int id);
 }
