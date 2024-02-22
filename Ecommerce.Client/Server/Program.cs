@@ -1,4 +1,5 @@
 using Ecommerce.Client.Server.Data;
+using Ecommerce.Client.Server.Services.CategoryService;
 using Ecommerce.Client.Server.Services.ProductService;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +17,7 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
 
 var app = builder.Build();
 
